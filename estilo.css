@@ -66,11 +66,12 @@ a {
     display: flex;
     justify-content: center;
 }
-
 .noticiasdestaque {
     border: gray 1px solid;
     margin-left: 10px;
     margin-right: 10px;
+    /*margin-top acrescentei*/
+    margin-top: 10px;
     box-shadow: gray 2px 2px 3px;
 }
 
